@@ -1,0 +1,16 @@
+body{
+    background-color: gray;
+    padding-left: 550px;
+    padding-top: 200px;
+}
+
+.box{
+    background-color: white;
+    width: 350px;
+    border-radius: 0px 0px 30px 30px ;
+}
+.icon{
+     font-size: 80px;
+    color: gray;
+   
+}
